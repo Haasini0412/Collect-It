@@ -1,0 +1,8 @@
+{
+  "name": "CollectIt",
+  "description": "AI-powered group money collector with PayPal checkout, rupee support, bulk import, and live ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
